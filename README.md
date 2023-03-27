@@ -24,7 +24,7 @@ valor2 = float(input('Digite o segundo valor: '))
 
 
 
-5.Verifique as alterações do seu projeto através de comando git
+5. Verifique as alterações do seu projeto através de comando git
 
 
 
@@ -90,4 +90,5 @@ else:
 
 
 
-Obs: Tire print de todos os comandos do console
+
+### Obs: `Tire print de todos os comandos do console`
